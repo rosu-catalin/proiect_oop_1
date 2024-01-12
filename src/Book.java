@@ -33,5 +33,9 @@ public class Book {
         return copies;
     }
 
+    @Override
+    public String toString() {
+        return "Titlu: " + title + ", Autor: " + author + ", Exemplare: " + copies;
+    }
 
 }

@@ -72,12 +72,12 @@ public class BookRepository {
 
         List<Book> searchList;
 
-        if (searchType == SearchType.TITLE) {
-            searchList = booksSortedByTitle;
-        } else if (searchType == SearchType.AUTHOR) {
-            searchList = booksSortedByAuthor;
-        } else {
-            return null; // Tratați în mod corespunzător pentru alte tipuri de căutare
+        switch (searchType) {
+            case TITLE -> searchList = booksSortedByTitle;
+            case AUTHOR -> searchList = booksSortedByAuthor;
+            default -> {
+                return null;
+            }
         }
 
         int low = 0;

@@ -1,0 +1,150 @@
+To Kill a Mockingbird
+Harper Lee
+19
+1984
+George Orwell
+1
+Pride and Prejudice
+Jane Austen
+3
+The Great Gatsby
+F. Scott Fitzgerald
+14
+Moby Dick
+Herman Melville
+13
+War and Peace
+Leo Tolstoy
+15
+Ulysses
+James Joyce
+3
+Don Quixote
+Miguel de Cervantes
+2
+One Hundred Years of Solitude
+Gabriel Garcia Marquez
+18
+The Catcher in the Rye
+J.D. Salinger
+3
+Crime and Punishment
+Fyodor Dostoevsky
+10
+The Brothers Karamazov
+Fyodor Dostoevsky
+10
+Madame Bovary
+Gustave Flaubert
+9
+The Adventures of Huckleberry Finn
+Mark Twain
+14
+The Odyssey
+Homer
+2
+The Divine Comedy
+Dante Alighieri
+16
+Lolita
+Vladimir Nabokov
+10
+The Iliad
+Homer
+8
+The Trial
+Franz Kafka
+18
+Anna Karenina
+Leo Tolstoy
+9
+In Search of Lost Time
+Marcel Proust
+10
+The Stranger
+Albert Camus
+9
+Brave New World
+Aldous Huxley
+11
+The Grapes of Wrath
+John Steinbeck
+11
+A Tale of Two Cities
+Charles Dickens
+15
+The Picture of Dorian Gray
+Oscar Wilde
+4
+Wuthering Heights
+Emily Bronte
+13
+The Hobbit
+J.R.R. Tolkien
+12
+Fahrenheit 451
+Ray Bradbury
+17
+Jane Eyre
+Charlotte Bronte
+7
+Animal Farm
+George Orwell
+2
+The Little Prince
+Antoine de Saint-Exupéry
+15
+Great Expectations
+Charles Dickens
+2
+Les Misérables
+Victor Hugo
+5
+The Count of Monte Cristo
+Alexandre Dumas
+12
+Dracula
+Bram Stoker
+10
+Frankenstein
+Mary Shelley
+2
+A Clockwork Orange
+Anthony Burgess
+8
+Sense and Sensibility
+Jane Austen
+13
+The Lord of the Rings
+J.R.R. Tolkien
+5
+The Alchemist
+Paulo Coelho
+9
+The Sun Also Rises
+Ernest Hemingway
+13
+Heart of Darkness
+Joseph Conrad
+14
+Gulliver's Travels
+Jonathan Swift
+20
+The Old Man and the Sea
+Ernest Hemingway
+20
+The Sound and the Fury
+William Faulkner
+16
+Slaughterhouse-Five
+Kurt Vonnegut
+17
+To the Lighthouse
+Virginia Woolf
+8
+Catch-22
+Joseph Heller
+3
+Invisible Man
+Ralph Ellison
+1
